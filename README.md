@@ -34,3 +34,9 @@ If you are developing a production application, we recommend updating the config
 - Repo BE
    - Deploy Env DEV :  dev.be-groupe.com
    - Deploy Env Live : be-groupe.com
+
+Branching
+- main
+- develop
+- feature : 151123-erg11-slicing-promo
+- bugfix
