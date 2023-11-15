@@ -1,8 +1,13 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 
 const Banner = () => {
+  const [name, setName] = useState('')
+
+  useEffect(() => {
+    console.log(name, "name")
+  })
   return (
-    <div>Hello world ini banner harusnya conflict kan yaaa</div>
+    <div>Test Merge Conflict</div>
   )
 }
 
