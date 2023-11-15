@@ -2,7 +2,7 @@ import React from 'react'
 
 const Banner = () => {
   return (
-    <div>Banner</div>
+    <div>Hello world ini banner harusnya conflict kan yaaa</div>
   )
 }
 
